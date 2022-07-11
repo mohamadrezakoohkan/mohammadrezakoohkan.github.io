@@ -5,8 +5,6 @@ async function getIP() {
     let response = await fetch(ENDPOINT_URL);
     let data = await response.json();
     let ip = await data.ip;
-    console.log(data);
-    console.log(ip);
     return ip;
 }
 
