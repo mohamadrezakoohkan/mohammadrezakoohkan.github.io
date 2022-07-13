@@ -1,0 +1,38 @@
+.title {
+    color: #fff;
+    font-weight: 300;
+    font-size: 2.8em;
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+}
+
+.button div {
+    color: #000;
+    background-color: #fff;
+    border-radius: 7px;
+    transition: 0.3s;
+    padding: 16px;
+    font-weight: 100;
+    font-size: 1.8em;
+    transition: 0.3s;
+}
+
+.button div:hover {
+    color: #000;
+    background-color: #fff;
+    transform: scale(0.9);
+    opacity: 0.3;
+}
+
+@media only screen and (max-width: 600px) {
+    .title {
+        font-size: 2em;
+    }
+}
