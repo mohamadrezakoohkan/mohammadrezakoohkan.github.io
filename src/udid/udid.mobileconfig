@@ -5,7 +5,7 @@
     <key>PayloadContent</key>
     <dict>
         <key>URL</key>
-        <string>https://mohamadreza.com/udid/process.php</string>
+        <string>https://mohamadreza.com/kit/udid/process.php</string>
     <key>DeviceAttributes</key>
     <array>
         <string>UDID</string>
@@ -26,7 +26,7 @@
 <key>PayloadUUID</key>
 <string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
 <key>PayloadIdentifier</key>
-<string>com.mohamadreza.get.udid</string>
+<string>codes.com.mohamadreza.getUDID</string>
 <key>PayloadDescription</key>
 <string>Fetching device UDID</string>
 <key>PayloadType</key>
