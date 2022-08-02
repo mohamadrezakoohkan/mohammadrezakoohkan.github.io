@@ -1,5 +1,11 @@
 const data = [
     {
+        title: "An Introduction to Coordinator pattern in SwiftUI",
+        description:
+            "A solution for flow management in SwiftUI, the Coordinator pattern replacing NavigationView and complex flows like push, pop, pop to root",
+        link: "https://medium.com/@mohamad.reza/an-introduction-to-coordinator-pattern-in-swiftui-38e5b02f031f?source=friends_link&sk=a81c6b867d96d8b27b7c9764a3ae831e",
+    },
+    {
         title: "Jetpush CI/CD Tool",
         description:
             "Jetpush is a Continues Deployment tool for iOS distribution with automatic signing. Also Jetpush can create GitHub and GitLab CI configuration",
