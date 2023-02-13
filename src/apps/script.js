@@ -9,7 +9,8 @@ const data = [
   },
   {
     title: "Moissage",
-    description: "Moissage is providing massage service at your place all over in Canada",
+    description:
+      "Moissage is providing massage service at your place all over in Canada. It was a 3 month contract and I have delivered both Figma UI Design and iOS application before the deadline.",
     resource: "moissage",
     imagesCount: 0,
     link: "",
