@@ -22,6 +22,7 @@ function getGreeting(timeZone) {
     "Europe/Rome": "Ciao",
     "Europe/Paris": "Bonjour",
     "Europe/Berlin": "Hallo",
+    "Asia/Tehran": "Salam aleykom",
   };
   var result = timeZones[timeZone];
   console.log(result);
